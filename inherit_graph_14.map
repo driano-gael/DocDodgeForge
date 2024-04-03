@@ -1,0 +1,19 @@
+<map id="Graphe hiérarchique des classes" name="Graphe hiérarchique des classes">
+<area shape="rect" id="Node000000" title=" " alt="" coords="5,183,62,209"/>
+<area shape="rect" id="Node000001" href="$class_app_1_1_models_1_1_category.html" title=" " alt="" coords="131,5,278,32"/>
+<area shape="poly" id="edge55_Node000000_Node000001" title=" " alt="" coords="39,167,62,104,82,70,108,42,129,29,132,34,111,46,86,74,67,106,44,168"/>
+<area shape="rect" id="Node000002" href="$class_app_1_1_models_1_1_file.html" title=" " alt="" coords="147,56,262,83"/>
+<area shape="poly" id="edge56_Node000000_Node000002" title=" " alt="" coords="46,168,71,129,88,109,108,92,145,76,147,81,111,97,92,113,75,132,50,171"/>
+<area shape="rect" id="Node000003" href="$class_app_1_1_models_1_1_formation.html" title=" " alt="" coords="128,107,281,133"/>
+<area shape="poly" id="edge57_Node000000_Node000003" title=" " alt="" coords="63,171,109,143,139,131,141,136,111,148,65,175"/>
+<area shape="rect" id="Node000004" href="$class_app_1_1_models_1_1_forum_post.html" title=" " alt="" coords="125,157,284,184"/>
+<area shape="poly" id="edge58_Node000000_Node000004" title=" " alt="" coords="77,187,124,180,125,185,77,192"/>
+<area shape="rect" id="Node000005" href="$class_app_1_1_models_1_1_forum_response.html" title=" " alt="" coords="110,208,299,235"/>
+<area shape="poly" id="edge59_Node000000_Node000005" title=" " alt="" coords="78,200,111,205,110,210,77,205"/>
+<area shape="rect" id="Node000006" href="$class_app_1_1_models_1_1_ressource_post.html" title=" " alt="" coords="113,259,296,285"/>
+<area shape="poly" id="edge60_Node000000_Node000006" title=" " alt="" coords="65,217,111,244,141,256,139,261,109,249,63,221"/>
+<area shape="rect" id="Node000007" href="$class_app_1_1_models_1_1_role.html" title=" " alt="" coords="144,309,265,336"/>
+<area shape="poly" id="edge61_Node000000_Node000007" title=" " alt="" coords="50,221,75,260,92,279,111,295,145,311,143,315,108,300,88,283,71,263,46,224"/>
+<area shape="rect" id="Node000008" href="$class_app_1_1_models_1_1_theme.html" title=" " alt="" coords="138,360,271,387"/>
+<area shape="poly" id="edge62_Node000000_Node000008" title=" " alt="" coords="44,224,67,286,86,318,111,346,139,361,136,365,108,350,82,322,62,288,39,225"/>
+</map>

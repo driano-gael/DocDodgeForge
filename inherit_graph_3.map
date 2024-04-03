@@ -1,0 +1,29 @@
+<map id="Graphe hiérarchique des classes" name="Graphe hiérarchique des classes">
+<area shape="rect" id="Node000000" title=" " alt="" coords="5,380,112,407"/>
+<area shape="rect" id="Node000001" href="$class_app_1_1_http_1_1_controllers_1_1_controller.html" title=" " alt="" coords="160,372,298,415"/>
+<area shape="poly" id="edge2_Node000000_Node000001" title=" " alt="" coords="127,391,159,391,159,396,127,396"/>
+<area shape="rect" id="Node000002" href="$class_app_1_1_http_1_1_controllers_1_1_admin_page_controller.html" title=" " alt="" coords="360,5,507,48"/>
+<area shape="poly" id="edge3_Node000001_Node000002" title=" " alt="" coords="230,356,240,293,259,214,274,172,293,131,316,93,344,58,359,46,362,51,348,62,320,96,297,134,279,174,264,215,245,294,236,357"/>
+<area shape="rect" id="Node000003" href="$class_app_1_1_http_1_1_controllers_1_1_auth_controller.html" title=" " alt="" coords="365,72,503,115"/>
+<area shape="poly" id="edge4_Node000001_Node000003" title=" " alt="" coords="234,356,247,305,268,243,300,180,321,151,344,125,363,111,366,116,348,129,325,154,305,183,273,245,252,306,239,357"/>
+<area shape="rect" id="Node000004" href="$class_app_1_1_http_1_1_controllers_1_1_category_controller.html" title=" " alt="" coords="365,139,503,181"/>
+<area shape="poly" id="edge5_Node000001_Node000004" title=" " alt="" coords="240,356,256,318,279,274,308,230,344,191,363,179,366,183,348,195,312,233,283,277,261,320,245,358"/>
+<area shape="rect" id="Node000005" href="$class_app_1_1_http_1_1_controllers_1_1_file_controller.html" title=" " alt="" coords="365,205,503,248"/>
+<area shape="poly" id="edge6_Node000001_Node000005" title=" " alt="" coords="250,358,291,307,316,281,344,258,364,246,367,251,348,262,320,285,295,310,255,361"/>
+<area shape="rect" id="Node000006" href="$class_app_1_1_http_1_1_controllers_1_1_formation_controller.html" title=" " alt="" coords="365,272,503,315"/>
+<area shape="poly" id="edge7_Node000001_Node000006" title=" " alt="" coords="277,361,345,324,371,313,373,318,347,329,279,366"/>
+<area shape="rect" id="Node000007" href="$class_app_1_1_http_1_1_controllers_1_1_forum_controller.html" title=" " alt="" coords="365,339,503,381"/>
+<area shape="poly" id="edge8_Node000001_Node000007" title=" " alt="" coords="313,377,364,369,364,374,314,382"/>
+<area shape="rect" id="Node000008" href="$class_app_1_1_http_1_1_controllers_1_1_forum_post_controller.html" title=" " alt="" coords="362,405,506,448"/>
+<area shape="poly" id="edge9_Node000001_Node000008" title=" " alt="" coords="314,404,361,412,360,418,313,410"/>
+<area shape="rect" id="Node000009" href="$class_app_1_1_http_1_1_controllers_1_1_forum_response_controller.html" title=" " alt="" coords="346,472,521,515"/>
+<area shape="poly" id="edge10_Node000001_Node000009" title=" " alt="" coords="279,421,347,458,373,469,371,474,345,462,277,425"/>
+<area shape="rect" id="Node000010" href="$class_app_1_1_http_1_1_controllers_1_1_ressource_controller.html" title=" " alt="" coords="363,539,505,581"/>
+<area shape="poly" id="edge11_Node000001_Node000010" title=" " alt="" coords="255,426,295,476,320,502,348,524,367,536,364,540,344,529,316,506,291,480,250,429"/>
+<area shape="rect" id="Node000011" href="$class_app_1_1_http_1_1_controllers_1_1_ressource_post_controller.html" title=" " alt="" coords="349,605,518,648"/>
+<area shape="poly" id="edge12_Node000001_Node000011" title=" " alt="" coords="245,428,261,466,283,510,312,553,348,591,364,602,361,607,344,595,308,557,279,513,256,469,240,431"/>
+<area shape="rect" id="Node000012" href="$class_app_1_1_http_1_1_controllers_1_1_theme_controller.html" title=" " alt="" coords="365,672,503,715"/>
+<area shape="poly" id="edge13_Node000001_Node000012" title=" " alt="" coords="239,429,252,480,273,541,305,604,325,632,348,658,366,671,363,675,344,662,321,636,300,606,268,543,247,482,234,431"/>
+<area shape="rect" id="Node000013" href="$class_app_1_1_http_1_1_controllers_1_1_user_controller.html" title=" " alt="" coords="365,739,503,781"/>
+<area shape="poly" id="edge14_Node000001_Node000013" title=" " alt="" coords="236,430,245,493,264,572,279,613,297,653,320,691,348,725,366,738,363,743,344,729,316,694,293,656,274,615,259,573,240,494,230,431"/>
+</map>

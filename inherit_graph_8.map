@@ -1,0 +1,27 @@
+<map id="Graphe hiérarchique des classes" name="Graphe hiérarchique des classes">
+<area shape="rect" id="Node000000" title=" " alt="" coords="5,364,105,391"/>
+<area shape="rect" id="Node000001" href="$class_app_1_1_http_1_1_requests_1_1_auth_request.html" title=" " alt="" coords="163,5,373,32"/>
+<area shape="poly" id="edge24_Node000000_Node000001" title=" " alt="" coords="53,348,56,285,69,202,81,159,98,116,121,77,151,42,167,30,170,35,154,46,125,80,103,118,86,160,74,203,61,285,58,349"/>
+<area shape="rect" id="Node000002" href="$class_app_1_1_http_1_1_requests_1_1_category_request.html" title=" " alt="" coords="174,56,362,99"/>
+<area shape="poly" id="edge25_Node000000_Node000002" title=" " alt="" coords="56,348,63,297,79,233,107,166,127,136,151,109,172,94,175,98,154,113,131,139,112,169,84,234,68,298,61,349"/>
+<area shape="rect" id="Node000003" href="$class_app_1_1_http_1_1_requests_1_1_forgot_password_request.html" title=" " alt="" coords="182,123,354,165"/>
+<area shape="poly" id="edge26_Node000000_Node000003" title=" " alt="" coords="60,349,71,310,89,263,115,216,151,175,180,158,183,162,154,179,119,219,94,265,76,311,65,350"/>
+<area shape="rect" id="Node000004" href="$class_app_1_1_http_1_1_requests_1_1_formation_request.html" title=" " alt="" coords="171,189,365,232"/>
+<area shape="poly" id="edge27_Node000000_Node000004" title=" " alt="" coords="67,349,100,294,123,266,151,242,171,230,174,235,154,246,127,270,104,298,71,351"/>
+<area shape="rect" id="Node000005" href="$class_app_1_1_http_1_1_requests_1_1_forum_post_request.html" title=" " alt="" coords="168,256,368,299"/>
+<area shape="poly" id="edge28_Node000000_Node000005" title=" " alt="" coords="83,352,115,329,151,308,180,297,182,302,154,313,118,334,86,357"/>
+<area shape="rect" id="Node000006" href="$class_app_1_1_http_1_1_requests_1_1_forum_response_request.html" title=" " alt="" coords="153,323,383,365"/>
+<area shape="poly" id="edge29_Node000000_Node000006" title=" " alt="" coords="120,365,152,359,153,365,121,370"/>
+<area shape="rect" id="Node000007" href="$class_app_1_1_http_1_1_requests_1_1_password_request.html" title=" " alt="" coords="172,389,364,432"/>
+<area shape="poly" id="edge30_Node000000_Node000007" title=" " alt="" coords="120,385,172,393,171,398,120,390"/>
+<area shape="rect" id="Node000008" href="$class_app_1_1_http_1_1_requests_1_1_profile_update_request.html" title=" " alt="" coords="182,456,354,499"/>
+<area shape="poly" id="edge31_Node000000_Node000008" title=" " alt="" coords="86,398,118,421,154,442,183,453,181,458,151,446,115,425,83,402"/>
+<area shape="rect" id="Node000009" href="$class_app_1_1_http_1_1_requests_1_1_register_request.html" title=" " alt="" coords="176,523,360,565"/>
+<area shape="poly" id="edge32_Node000000_Node000009" title=" " alt="" coords="71,403,104,457,127,485,154,508,177,521,174,526,151,513,123,489,100,460,67,406"/>
+<area shape="rect" id="Node000010" href="$class_app_1_1_http_1_1_requests_1_1_ressource_post_request.html" title=" " alt="" coords="169,589,367,632"/>
+<area shape="poly" id="edge33_Node000000_Node000010" title=" " alt="" coords="65,405,76,443,94,489,119,536,154,575,171,587,168,591,151,579,115,539,89,492,71,445,60,406"/>
+<area shape="rect" id="Node000011" href="$class_app_1_1_http_1_1_requests_1_1_role_request.html" title=" " alt="" coords="163,656,373,683"/>
+<area shape="poly" id="edge34_Node000000_Node000011" title=" " alt="" coords="61,406,67,457,83,521,95,554,111,587,130,616,154,642,171,653,168,658,151,646,126,620,106,589,90,557,78,523,62,458,55,406"/>
+<area shape="rect" id="Node000012" href="$class_app_1_1_http_1_1_requests_1_1_theme_request.html" title=" " alt="" coords="157,707,379,733"/>
+<area shape="poly" id="edge35_Node000000_Node000012" title=" " alt="" coords="59,406,62,467,76,544,88,585,105,624,127,661,154,693,171,704,167,708,151,697,122,664,100,627,83,587,71,546,57,467,53,407"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="App\Http\Controllers\ForumPostController" name="App\Http\Controllers\ForumPostController">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,256,189,480"/>
+<area shape="rect" id="Node000002" href="$class_app_1_1_http_1_1_controllers_1_1_controller.html" title=" " alt="" coords="33,123,162,208"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="100,223,100,256,95,256,95,223"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="49,5,146,75"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="100,89,100,123,95,123,95,89"/>
+</map>

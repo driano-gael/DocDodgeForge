@@ -1,0 +1,5 @@
+<map id="App\Models\File" name="App\Models\File">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,123,112,192"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="35,5,83,75"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="61,90,61,123,56,123,56,90"/>
+</map>

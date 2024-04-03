@@ -1,0 +1,12 @@
+digraph "node_modules/chokidar/node_modules/glob-parent"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  compound=true
+  subgraph clusterdir_ad6c29df41a35c41d6425c06ebe1885f {
+    graph [ bgcolor="#edf0f7", pencolor="grey50", label="node_modules", fontname=Helvetica,fontsize=10 style="filled,dashed", URL="dir_ad6c29df41a35c41d6425c06ebe1885f.html",tooltip=""]
+  dir_2e469c5d02691727b28f9d42584e4ea0 [label="glob-parent", fillcolor="#edf0f7", color="grey25", style="filled,bold", URL="dir_2e469c5d02691727b28f9d42584e4ea0.html",tooltip=""];
+  }
+}

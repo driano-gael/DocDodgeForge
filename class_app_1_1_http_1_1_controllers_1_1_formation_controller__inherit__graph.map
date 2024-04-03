@@ -1,0 +1,7 @@
+<map id="App\Http\Controllers\FormationController" name="App\Http\Controllers\FormationController">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,256,168,357"/>
+<area shape="rect" id="Node000002" href="$class_app_1_1_http_1_1_controllers_1_1_controller.html" title=" " alt="" coords="22,123,151,208"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="89,223,89,256,84,256,84,223"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="38,5,135,75"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="89,89,89,123,84,123,84,89"/>
+</map>

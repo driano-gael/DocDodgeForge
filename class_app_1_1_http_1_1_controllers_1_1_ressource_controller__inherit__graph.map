@@ -1,0 +1,7 @@
+<map id="App\Http\Controllers\RessourceController" name="App\Http\Controllers\RessourceController">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,256,188,400"/>
+<area shape="rect" id="Node000002" href="$class_app_1_1_http_1_1_controllers_1_1_controller.html" title=" " alt="" coords="32,123,161,208"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="99,223,99,256,94,256,94,223"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="48,5,145,75"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="99,89,99,123,94,123,94,89"/>
+</map>

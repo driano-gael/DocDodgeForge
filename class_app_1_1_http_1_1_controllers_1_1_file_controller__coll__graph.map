@@ -1,0 +1,7 @@
+<map id="App\Http\Controllers\FileController" name="App\Http\Controllers\FileController">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,256,181,501"/>
+<area shape="rect" id="Node000002" href="$class_app_1_1_http_1_1_controllers_1_1_controller.html" title=" " alt="" coords="29,123,158,208"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="96,223,96,256,91,256,91,223"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="45,5,142,75"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="96,89,96,123,91,123,91,89"/>
+</map>

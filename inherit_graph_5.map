@@ -1,0 +1,7 @@
+<map id="Graphe hiérarchique des classes" name="Graphe hiérarchique des classes">
+<area shape="rect" id="Node000000" title=" " alt="" coords="5,47,93,73"/>
+<area shape="rect" id="Node000001" href="$class_app_1_1_view_1_1_components_1_1_app_layout.html" title=" " alt="" coords="141,5,294,48"/>
+<area shape="poly" id="edge20_Node000000_Node000001" title=" " alt="" coords="107,46,140,39,141,45,108,51"/>
+<area shape="rect" id="Node000002" href="$class_app_1_1_view_1_1_components_1_1_guest_layout.html" title=" " alt="" coords="141,72,294,115"/>
+<area shape="poly" id="edge21_Node000000_Node000002" title=" " alt="" coords="108,69,141,75,140,81,107,74"/>
+</map>

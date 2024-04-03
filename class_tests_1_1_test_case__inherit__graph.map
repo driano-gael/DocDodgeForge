@@ -1,0 +1,13 @@
+<map id="Tests\TestCase" name="Tests\TestCase">
+<area shape="rect" id="Node000001" title=" " alt="" coords="392,123,496,192"/>
+<area shape="rect" id="Node000003" href="$class_tests_1_1_feature_1_1_admin_role_test.html" title=" " alt="" coords="5,240,208,923"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="378,170,338,179,297,194,257,214,222,242,210,255,206,252,218,238,254,210,295,189,337,174,377,165"/>
+<area shape="rect" id="Node000004" href="$class_tests_1_1_feature_1_1_auth_1_1_authentication_test.html" title=" " alt="" coords="233,456,429,707"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="434,207,367,457,361,455,429,206"/>
+<area shape="rect" id="Node000005" href="$class_tests_1_1_feature_1_1_auth_1_1_password_reset_test.html" title=" " alt="" coords="453,333,664,829"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="459,205,494,333,489,334,454,207"/>
+<area shape="rect" id="Node000006" href="$class_tests_1_1_feature_1_1_auth_1_1_registration_test.html" title=" " alt="" coords="689,400,877,763"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="511,163,553,172,597,187,640,208,678,238,707,274,730,314,748,356,761,399,756,401,743,358,725,316,702,277,674,242,638,213,595,192,551,177,510,168"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="395,5,493,75"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="447,90,447,123,441,123,441,90"/>
+</map>

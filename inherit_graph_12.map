@@ -1,0 +1,19 @@
+<map id="Graphe hiérarchique des classes" name="Graphe hiérarchique des classes">
+<area shape="rect" id="Node000000" title=" " alt="" coords="5,247,92,273"/>
+<area shape="rect" id="Node000001" href="$class_app_1_1_http_1_1_middleware_1_1_authenticate.html" title=" " alt="" coords="186,5,328,48"/>
+<area shape="poly" id="edge47_Node000000_Node000001" title=" " alt="" coords="52,231,62,192,78,145,103,98,138,58,160,43,185,34,187,39,163,48,141,62,108,101,83,148,67,194,57,232"/>
+<area shape="rect" id="Node000002" href="$class_app_1_1_http_1_1_middleware_1_1_encrypt_cookies.html" title=" " alt="" coords="186,72,328,115"/>
+<area shape="poly" id="edge48_Node000000_Node000002" title=" " alt="" coords="59,231,89,177,112,149,138,125,161,112,185,102,187,107,163,116,141,129,115,152,94,180,64,234"/>
+<area shape="rect" id="Node000003" href="$class_app_1_1_http_1_1_middleware_1_1_prevent_requests_during_maintenance.html" title=" " alt="" coords="140,139,374,181"/>
+<area shape="poly" id="edge49_Node000000_Node000003" title=" " alt="" coords="74,235,104,212,138,191,166,179,168,184,141,196,107,216,77,239"/>
+<area shape="rect" id="Node000004" href="$class_app_1_1_http_1_1_middleware_1_1_trim_strings.html" title=" " alt="" coords="186,205,328,248"/>
+<area shape="poly" id="edge50_Node000000_Node000004" title=" " alt="" coords="106,248,185,235,186,241,107,253"/>
+<area shape="rect" id="Node000005" href="$class_app_1_1_http_1_1_middleware_1_1_trust_hosts.html" title=" " alt="" coords="186,272,328,315"/>
+<area shape="poly" id="edge51_Node000000_Node000005" title=" " alt="" coords="107,267,186,279,185,285,106,272"/>
+<area shape="rect" id="Node000006" href="$class_app_1_1_http_1_1_middleware_1_1_trust_proxies.html" title=" " alt="" coords="186,339,328,381"/>
+<area shape="poly" id="edge52_Node000000_Node000006" title=" " alt="" coords="77,281,107,304,141,324,187,342,185,347,138,329,104,308,74,285"/>
+<area shape="rect" id="Node000007" href="$class_app_1_1_http_1_1_middleware_1_1_validate_signature.html" title=" " alt="" coords="186,405,328,448"/>
+<area shape="poly" id="edge53_Node000000_Node000007" title=" " alt="" coords="64,286,94,340,115,368,141,391,163,404,187,413,185,418,161,408,138,395,112,371,89,343,59,289"/>
+<area shape="rect" id="Node000008" href="$class_app_1_1_http_1_1_middleware_1_1_verify_csrf_token.html" title=" " alt="" coords="186,472,328,515"/>
+<area shape="poly" id="edge54_Node000000_Node000008" title=" " alt="" coords="57,288,67,326,83,372,108,419,141,458,163,472,187,481,185,486,160,477,138,462,103,422,78,375,62,328,52,289"/>
+</map>
